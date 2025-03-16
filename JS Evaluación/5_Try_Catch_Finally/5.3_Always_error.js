@@ -10,4 +10,4 @@ try {
     console.log("Se produjo un pequeño error:",error.message);
 }finally{
     console.log("Que pasó Master 🥴");
-}
+};

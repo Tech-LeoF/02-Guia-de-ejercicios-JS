@@ -13,7 +13,7 @@ async function usage(){
 
     } catch (error) {
         console.log(`Ocurrió un error: ${error.message}`);
-    }
-}
+    };
+};
 
 usage();

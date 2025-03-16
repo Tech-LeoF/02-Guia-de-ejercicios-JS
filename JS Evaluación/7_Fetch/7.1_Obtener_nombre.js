@@ -9,6 +9,6 @@ async function obtenerName(){
 
         }catch (error){
             console.log("Ha ocurrido un error", error.message);
-        }
-    }
+        };
+    };
 obtenerName();

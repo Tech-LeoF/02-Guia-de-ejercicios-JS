@@ -3,11 +3,11 @@ try {
 
     let nombre = "Leonardo";
 
-    console.log(ciudad)
+    console.log(ciudad);
     
 } catch (error) {
 
-    console.log("No se puede acceder:", error.message)
+    console.log("No se puede acceder:", error.message);
 
-}
+};
 
